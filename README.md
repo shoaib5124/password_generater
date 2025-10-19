@@ -75,7 +75,7 @@ Generated Password: G7@LMrZ#1qP!
 
 🖥️ Setup & Installation
 # Clone the repo
-git clone https://github.com/yourusername/password-generator-react.git
+git clone https://github.com/shoaib5124/password_generater
 
 # Go to project folder
 cd project1
