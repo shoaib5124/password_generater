@@ -78,7 +78,7 @@ Generated Password: G7@LMrZ#1qP!
 git clone https://github.com/yourusername/password-generator-react.git
 
 # Go to project folder
-cd password-generator-react
+cd project1
 
 # Install dependencies
 npm install
@@ -112,4 +112,4 @@ Responsive UI with better design
 Shoaib Ul Hassan
 🚀 Frontend Developer | React Enthusiast
 LinkedIn:
- • GitHub
+
