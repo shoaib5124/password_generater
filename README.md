@@ -95,7 +95,7 @@ Your app will be live on
 (Add your app screenshot here)
 Example:
 
-![Password Generator Screenshot](./screenshot.png)
+![Password Generator Screenshot](.screenshot.png)
 
 💡 Future Enhancements
 
